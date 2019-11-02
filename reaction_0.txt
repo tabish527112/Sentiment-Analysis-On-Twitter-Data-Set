@@ -1,0 +1,16 @@
+Positive	4
+Neutral	0
+Neutral	0
+Neutral	0
+Neutral	0
+Neutral	0
+Negative	-2
+Neutral	0
+Positive	4
+Neutral	0
+Positive	1
+Neutral	0
+Negative	-2
+Neutral	0
+Negative	-2
+Neutral	0

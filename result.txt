@@ -1,0 +1,3 @@
+Neutral tweets are 10
+Positive tweets are 3
+Negative tweets are 3
